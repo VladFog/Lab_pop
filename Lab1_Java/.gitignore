@@ -1,0 +1,4 @@
+# Project exclude paths
+/pop-lab1/.gradle/
+/pop-lab1/build/
+/pop-lab1/build/classes/java/main/
